@@ -70,17 +70,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Busted-pinch&count_private=true&show_icons=true&theme=radical&hide_title=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trupti933&count_private=true&show_icons=true&theme=radical&hide_title=true" height="165">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Busted-pinch&theme=radical&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trupti933&theme=radical&layout=compact" alt="Top Languages">
 </p>
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
 ## 📈 Activity Graph  
 
-![Busted's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Busted-pinch&theme=react-dark)
+![Trupti's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trupti933&theme=react-dark)
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
