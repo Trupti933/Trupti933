@@ -74,7 +74,7 @@
 ## 📬 Connect with Me
 
  <p align="left">
-  <a href="www.linkedin.com/in/truptimete">
+  <a href="https://www.linkedin.com/in/truptimete">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
   </a>
   <a href="mailto:truptimete2007@gmail.com">
