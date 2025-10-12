@@ -24,11 +24,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
@@ -57,15 +53,6 @@
 
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
-## 🏅 Certifications & Badges
-
-<p align="center">
-  <a href="https://www.credly.com/badges/8aefa00b-7f28-4aeb-9db8-c0f9db6663fa/public_url)" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6a55d70c-9f24-4243-8e42-f823a132f474" width="120" height="120" alt="日本語"/>
-  </a>
-</p>
-
-![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
 ## 📊 GitHub Stats
 
@@ -87,10 +74,10 @@
 ## 📬 Connect with Me
 
  <p align="left">
-  <a href="https://www.linkedin.com/in/prathamesh-mete">
+  <a href="www.linkedin.com/in/trupti-mete">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
   </a>
-  <a href="mailto:metepratham04@gmail.com">
+  <a href="mailto:truptimete2007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
   </a>
 </p>
